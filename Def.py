@@ -67,7 +67,7 @@ def vizov ():
 	input()
 	print(f'\v{tw.fill(stroka[3], 30,)}')
 	input()
-	
+	р
 
 					
 		
